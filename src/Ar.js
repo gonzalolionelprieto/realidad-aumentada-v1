@@ -18,7 +18,7 @@ function Ar() {
           <a-box color="red" rotation="0 45 45" scale="1.2 1.2 1.2"></a-box>
         </a-entity>
         
-        <a-entity camera zappar-camera="user-facing: true"></a-entity>
+        <a-entity camera zappar-camera></a-entity>
       </a-scene>
     </div>
   );
